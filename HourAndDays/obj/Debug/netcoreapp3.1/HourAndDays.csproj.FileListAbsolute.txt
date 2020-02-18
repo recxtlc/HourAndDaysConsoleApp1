@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\HourAndDays\HourAndDays\bin\Debug\netcoreapp3.1\HourAndDays.exe
+C:\Users\USER\source\repos\HourAndDays\HourAndDays\bin\Debug\netcoreapp3.1\HourAndDays.deps.json
+C:\Users\USER\source\repos\HourAndDays\HourAndDays\bin\Debug\netcoreapp3.1\HourAndDays.runtimeconfig.json
+C:\Users\USER\source\repos\HourAndDays\HourAndDays\bin\Debug\netcoreapp3.1\HourAndDays.runtimeconfig.dev.json
+C:\Users\USER\source\repos\HourAndDays\HourAndDays\bin\Debug\netcoreapp3.1\HourAndDays.dll
+C:\Users\USER\source\repos\HourAndDays\HourAndDays\bin\Debug\netcoreapp3.1\HourAndDays.pdb
+C:\Users\USER\source\repos\HourAndDays\HourAndDays\obj\Debug\netcoreapp3.1\HourAndDays.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\HourAndDays\HourAndDays\obj\Debug\netcoreapp3.1\HourAndDays.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\HourAndDays\HourAndDays\obj\Debug\netcoreapp3.1\HourAndDays.AssemblyInfo.cs
+C:\Users\USER\source\repos\HourAndDays\HourAndDays\obj\Debug\netcoreapp3.1\HourAndDays.dll
+C:\Users\USER\source\repos\HourAndDays\HourAndDays\obj\Debug\netcoreapp3.1\HourAndDays.pdb
